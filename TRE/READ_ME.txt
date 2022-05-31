@@ -1,0 +1,3 @@
+Bokstaven i bilde PICTURE.png har fått seg en bøy...
+
+Hvilken bokstav er dette?
